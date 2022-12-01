@@ -15,7 +15,7 @@
 </p>
 
 ## Live Demo
-> Replit Page (https://kyungjin-cho.github.io/movie-app/)
+> Github Page (https://kyungjin-cho.github.io/movie-app/)
 
 ## Features
 * [x] React
